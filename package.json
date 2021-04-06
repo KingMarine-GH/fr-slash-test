@@ -13,5 +13,8 @@
     "@kingmarine/discord-interactions": "^0.1.0",
     "axios": "^0.21.1",
     "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
   }
 }
